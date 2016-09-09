@@ -1,3 +1,13 @@
+A loop deleting some elements could look like this:
+
+it = mymap.begin();
+while (it != mymap.end()) {
+   if (something)
+      mymap.erase(it++);
+   else
+      it++;
+}
+
 # meanshift
 note on mean shift algorithm
 
