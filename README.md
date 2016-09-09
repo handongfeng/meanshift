@@ -19,6 +19,9 @@ note on mean shift algorithm
 
 [1,2,3] are three typical mean shift papers.
 
+quick reference to write math equations for Markdown on github
+http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
 [1] Comaniciu, Dorin, and Peter Meer. "Mean shift: A robust approach toward feature space analysis." IEEE Transactions on pattern analysis and machine intelligence 24.5 (2002): 603-619.
