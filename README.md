@@ -1,5 +1,7 @@
-A loop deleting some elements could look like this:
 
+http://stackoverflow.com/questions/4636182/problem-with-stdmapiterator-after-calling-erase
+A loop deleting some elements could look like this:
+~~~~
 it = mymap.begin();
 while (it != mymap.end()) {
    if (something)
@@ -7,6 +9,8 @@ while (it != mymap.end()) {
    else
       it++;
 }
+~~~~
+
 
 # meanshift
 note on mean shift algorithm
